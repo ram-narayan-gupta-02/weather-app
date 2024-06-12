@@ -19,6 +19,11 @@ body {
     width: 300px;
 }
 
+#city{
+    height: 30px;
+    border-radius: 10px;
+}
+
 .weather-form {
     margin-bottom: 20px;
 }
